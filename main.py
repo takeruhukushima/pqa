@@ -42,7 +42,7 @@ async def main():
     papers_directory = "./my_papers"
     output_directory = "./out"
 
-    gemini_llm_name = "gemini/gemini-1.5-flash-latest"
+    gemini_llm_name = "gemini/gemini-2.5-flash"
     gemini_embedding_name = "gemini/text-embedding-004"
 
     os.makedirs(output_directory, exist_ok=True)

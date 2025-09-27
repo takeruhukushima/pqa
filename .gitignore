@@ -1,1 +1,4 @@
 .env
+out
+my_papers
+__pycache__
